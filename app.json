@@ -16,7 +16,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#d0d0d0",
-    "navigationBarTitleText": "驾考科目一题集",
+    "navigationBarTitleText": "驾考科目一",
     "navigationBarTextStyle":"black"
   },
   "openDataContext": {
